@@ -1,0 +1,39 @@
+OUTPUT 1
+
+Enter the employee name: Krishna rana
+Enter the Hours worked: 40
+Enter the Hourly rate: 9.75
+
+
+****************************************
+Employee Name:         Krishna rana
+
+Hours Worked:                 40.00
+Hourly Rate:               $   9.75
+
+Total Wages:               $ 390.00
+****************************************
+
+--------------------------------
+Process exited after 27.95 seconds with return value 0
+Press any key to continue . . .
+
+OUTPUT 2
+
+Enter the employee name: Oliver Queen
+Enter the Hours worked: 80
+Enter the Hourly rate: 18.50
+
+
+****************************************
+Employee Name:         Oliver Queen
+
+Hours Worked:                 80.00
+Hourly Rate:               $  18.50
+
+Total Wages:               $1480.00
+****************************************
+
+--------------------------------
+Process exited after 29.95 seconds with return value 0
+Press any key to continue . . .
